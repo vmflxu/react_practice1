@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+
+.bg-black{
+  background-color: black;
+  color:white;
+}
+.bg-white{
+  background-color: white;
+  color:black;
+  padding: 10px;
+}
+.frame{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  height: auto;
+  width: 500px;
+}
